@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:17:1-44:12
+ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:17:1-45:12
 	package
 		ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:18:5-51
 	android:versionName
@@ -14,18 +14,13 @@ ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManif
 	xmlns:android
 		ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:17:11-69
 application
-ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:24:5-42:19
-MERGED from [com.android.support:support-v13:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/AndroidManifest.xml:22:5-20
+ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:24:5-43:19
+MERGED from [com.android.support:support-v13:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:27:9-41
 	android:allowBackup
@@ -56,22 +51,19 @@ ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManif
 		ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:40:13-45
 	android:name
 		ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:39:13-53
+activity#com.example.android.navigationdrawer.ViewPagerActivity
+ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:42:9-54
+	android:name
+		ADDED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml:42:19-52
 uses-sdk
 INJECTED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:recyclerview-v7:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:cardview-v7:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/AndroidManifest.xml:20:5-43
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:24.0.0] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:23:9-52
+MERGED from [com.android.support:support-v13:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] /Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml
 		INJECTED from /Users/appcreate29/Downloads/Memory/Application/src/main/AndroidManifest.xml

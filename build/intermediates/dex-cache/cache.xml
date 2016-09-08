@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/appcreate29/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e65941d932aa4c304171ca272ca7963ba702ee7c.jar" />
+    </item>
+    <item
+        jar="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_a022f60851a473a3e9656234669ee71a6ad1f313.jar" />
+    </item>
+    <item
+        jar="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.0.1_3d1548331a57383c2fae418b5551a8471e13e123.jar" />
+    </item>
+    <item
+        jar="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_fefd56e5a7a2b789c92ef881598f06b1f1bc84fe.jar" />
+    </item>
+    <item
+        jar="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_bc615bc5389765c177ff7c99ff9c55ee47c20908.jar" />
+    </item>
+    <item
+        jar="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_b990a3180fdec1c82fec0559ac7bc6747becb3a2.jar" />
+    </item>
+    <item
+        jar="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_9465d134282d5d48b464049fe365acd00d941dae.jar" />
+    </item>
+    <item
+        jar="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/appcreate29/Downloads/Memory/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_10379597c94f6dc8ff4c4108deb4d640a180a1c4.jar" />
+    </item>
+
+</items>
