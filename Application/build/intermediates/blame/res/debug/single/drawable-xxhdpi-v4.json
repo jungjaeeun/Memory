@@ -72,20 +72,20 @@
         "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
         "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
@@ -130,6 +130,10 @@
     {
         "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/appcreate29/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
